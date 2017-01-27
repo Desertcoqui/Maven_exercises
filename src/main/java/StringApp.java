@@ -14,5 +14,6 @@ public class StringApp {
         }
         System.out.println(reverseMessage);
         System.out.println(swap);
+        System.out.println(swap+reverseMessage+message+" This is concatenation");
     }
 }
